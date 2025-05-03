@@ -4,5 +4,7 @@
 
 ## 7. 분할 정복 (Divide and Conquer)
 
-* **7.2 쿼드 트리 뒤집기 (Flipping a Quadtree)**
+* **쿼드 트리 뒤집기 (Quadtree)**
     * **BOJ:** [1992번 - 쿼드트리](https://www.acmicpc.net/problem/1992)
+* **울타리 잘라내기 (FENCE)**
+    * **BOJ:** [6549번 - 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
